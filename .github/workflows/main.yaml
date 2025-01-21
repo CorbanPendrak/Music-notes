@@ -1,4 +1,4 @@
-name: Build Quartz Site
+name: Build Quartz Site 
 on:
  push:
    branches: ["main"]
